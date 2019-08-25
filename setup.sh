@@ -20,8 +20,13 @@ sudo chmod 777 /opt/retropie/configs/all/NewTouchBoot/retro.jpg
 sudo chmod 777 /opt/retropie/configs/all/NewTouchBoot/kodi.jpg
 sudo chmod 777 /opt/retropie/configs/all/NewTouchBoot/terminal.png
 sudo chmod 777 /opt/retropie/configs/all/NewTouchBoot/Debian.jpg
-sudo chmod 777 /opt/retropie/configs/all/NewTouchBoot/left.jpg
-sudo chmod 777 /opt/retropie/configs/all/NewTouchBoot/right.jpg
+sudo chmod 777 /opt/retropie/configs/all/NewTouchBoot/left22.png
+sudo chmod 777 /opt/retropie/configs/all/NewTouchBoot/right22.png
+sudo chmod 777 /opt/retropie/configs/all/NewTouchBoot/Retroswitch_icon_both.png
+sudo chmod 777 /opt/retropie/configs/all/NewTouchBoot/Retroswitch_icon_left.png
+sudo chmod 777 /opt/retropie/configs/all/NewTouchBoot/Retroswitch_icon_right.png
+sudo chmod 777 /opt/retropie/configs/all/NewTouchBoot/Retroswitch_icon.png
+sudo chmod 777 /opt/retropie/configs/all/NewTouchBoot/SwitchBerry.jpg
 sudo chmod 777 /opt/retropie/configs/all/NewTouchBoot/check.png
 sudo chmod 777 /opt/retropie/configs/all/NewTouchBoot/logfile.txt
 sudo chmod 777 /opt/retropie/configs/all/NewTouchBoot/starter.sh
